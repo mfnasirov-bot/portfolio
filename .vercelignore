@@ -1,0 +1,4 @@
+# Source code is shown on GitHub; keep Python files out of the deploy
+# so Vercel treats this as a plain static site.
+*.py
+requirements.txt
